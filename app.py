@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return "Pz"
+    return "Pz!"
